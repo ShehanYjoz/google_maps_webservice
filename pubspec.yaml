@@ -12,6 +12,7 @@ dependencies:
   json_annotation: ^4.8.1
 
 dev_dependencies:
+  test:
   flutter_test:
     sdk: flutter
   pedantic: ^1.11.1
